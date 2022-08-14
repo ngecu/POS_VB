@@ -1,0 +1,186 @@
+C:\Users\all user\Desktop\POS Final\POS\POS\bin\Debug\POS.mdb
+C:\Users\all user\Desktop\POS Final\POS\POS\bin\Debug\POS.exe.config
+C:\Users\all user\Desktop\POS Final\POS\POS\bin\Debug\POS.exe
+C:\Users\all user\Desktop\POS Final\POS\POS\bin\Debug\POS.pdb
+C:\Users\all user\Desktop\POS Final\POS\POS\bin\Debug\POS.xml
+C:\Users\all user\Desktop\POS Final\POS\POS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\all user\Desktop\POS Final\POS\POS\obj\Debug\POS.frmSales.resources
+C:\Users\all user\Desktop\POS Final\POS\POS\obj\Debug\POS.Resources.resources
+C:\Users\all user\Desktop\POS Final\POS\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\all user\Desktop\POS Final\POS\POS\obj\Debug\POS.exe
+C:\Users\all user\Desktop\POS Final\POS\POS\obj\Debug\POS.xml
+C:\Users\all user\Desktop\POS Final\POS\POS\obj\Debug\POS.pdb
+C:\Users\all user\Desktop\POS Final\POS\POS\obj\Debug\POS.frmLock.resources
+C:\Users\all user\Desktop\POS Final\POS\POS\obj\Debug\POS.frmReceipt.resources
+C:\Users\all user\Desktop\POS Final\POS\POS\obj\Debug\RdlCompile.cache
+C:\Users\all user\Desktop\POS Final\POS\POS\obj\Debug\RdlCompile.compiled
+C:\Users\all user\Desktop\POS Final\POS\POS\obj\Debug\POS.mdiAdmin.resources
+C:\Users\all user\Desktop\POS Final\POS\POS\obj\Debug\POS.frmProducts.resources
+C:\Users\all user\Desktop\POS Final\POS\POS\obj\Debug\POS.frmLogin.resources
+D:\15K PROJECT\POS Final\POS\POS\bin\Debug\POS.exe.config
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.exe
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.xml
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.pdb
+D:\15K PROJECT\POS Final\POS\POS\bin\Debug\POS.mdb
+D:\15K PROJECT\POS Final\POS\POS\bin\Debug\POS.exe
+D:\15K PROJECT\POS Final\POS\POS\bin\Debug\POS.pdb
+D:\15K PROJECT\POS Final\POS\POS\bin\Debug\POS.xml
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\ResolveAssemblyReference.cache
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.frmLock.resources
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.frmLogin.resources
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.frmProducts.resources
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.frmReceipt.resources
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.frmSales.resources
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.mdiAdmin.resources
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.Resources.resources
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\RdlCompile.cache
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\RdlCompile.compiled
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.frm_add_products.resources
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.frm_Admin_info.resources
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.frm_add_qty.resources
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.frm_cashier_info.resources
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.frm_out_of_stock.resources
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.frm_maintenance_inventory.resources
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.frm_maintenance_receipt.resources
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.Form1.resources
+D:\15K PROJECT\POS Final\POS\POS\obj\Debug\POS.frm_enter_cash.resources
+D:\15K PROJECT - Copy\POS Final\POS\POS\bin\Debug\POS.exe.config
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.exe
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.xml
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.pdb
+D:\15K PROJECT - Copy\POS Final\POS\POS\bin\Debug\POS.mdb
+D:\15K PROJECT - Copy\POS Final\POS\POS\bin\Debug\POS.exe
+D:\15K PROJECT - Copy\POS Final\POS\POS\bin\Debug\POS.pdb
+D:\15K PROJECT - Copy\POS Final\POS\POS\bin\Debug\POS.xml
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\ResolveAssemblyReference.cache
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.Form1.resources
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.frmLock.resources
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.frmLogin.resources
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.frmProducts.resources
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.frmReceipt.resources
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.frmSales.resources
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.frm_add_products.resources
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.frm_add_qty.resources
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.frm_Admin_info.resources
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.frm_cashier_info.resources
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.frm_enter_cash.resources
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.frm_maintenance_inventory.resources
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.frm_maintenance_receipt.resources
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.frm_out_of_stock.resources
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.mdiAdmin.resources
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.Resources.resources
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\RdlCompile.cache
+D:\15K PROJECT - Copy\POS Final\POS\POS\obj\Debug\RdlCompile.compiled
+D:\15K PROJEmCT - Copy\POS Final\POS\POS\bin\Debug\POS.exe.config
+D:\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.exe
+D:\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.xml
+D:\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.pdb
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\bin\Debug\POS.exe.config
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.exe
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.xml
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.pdb
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\bin\Debug\POS.mdb
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\bin\Debug\POS.exe
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\bin\Debug\POS.pdb
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\bin\Debug\POS.xml
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\ResolveAssemblyReference.cache
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.Form1.resources
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.frmLock.resources
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.frmLogin.resources
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.frmProducts.resources
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.frmReceipt.resources
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.frmSales.resources
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.frm_add_products.resources
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.frm_add_qty.resources
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.frm_Admin_info.resources
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.frm_cashier_info.resources
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.frm_enter_cash.resources
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.frm_maintenance_inventory.resources
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.frm_maintenance_receipt.resources
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.frm_out_of_stock.resources
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.mdiAdmin.resources
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.Resources.resources
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\RdlCompile.cache
+D:\desktop system\15K PROJEmCT - Copy\POS Final\POS\POS\obj\Debug\RdlCompile.compiled
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\POS.mdb
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\POS.exe.config
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\POS.exe
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\POS.pdb
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\POS.xml
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\EnvDTE.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\stdole.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.Form1.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.frmLock.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.frmLogin.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.frmProducts.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.frmReceipt.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.frmSales.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.frm_add_products.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.frm_add_qty.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.frm_Admin_info.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.frm_cashier_info.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.frm_enter_cash.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.frm_maintenance_inventory.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.frm_maintenance_receipt.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.frm_out_of_stock.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.mdiAdmin.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.Resources.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.vbproj.GenerateResource.cache
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\RdlCompile.cache
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\RdlCompile.compiled
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.vbproj.CoreCompileInputs.cache
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.vbproj.CopyComplete
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.exe
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.xml
+C:\Users\Personal-01\Desktop\Sourcecodester\pos\POS\obj\Debug\POS.pdb
